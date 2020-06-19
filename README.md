@@ -1,4 +1,4 @@
-# memo
+# Flutterで作成したmemo帳
 
 A new Flutter application.
 
